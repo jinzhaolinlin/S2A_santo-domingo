@@ -1,0 +1,33 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+background-color: #DEF9C4;
+}
+.inicio {
+  display: flex;
+  justify-content: center;
+}
+.inicio img{
+  width: 500px;
+  margin: 50px;
+}
+.inicio p{
+  font-size: 50px;
+  font-weight: bold;
+  color: #50B498;
+}
+.enlace {
+  display: flex;
+  justify-content: center;
+  font-size: 30px;
+  color: #468585;
+  font-weight:bold;
+}
+.sub{
+  font-size: 30px;
+  font-weight: bold;
+  color: ;
+  margin-left:30px ;
+}
